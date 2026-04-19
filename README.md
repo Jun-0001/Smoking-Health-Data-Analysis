@@ -39,13 +39,18 @@
 ---
 
 ## 📈 분석 시각화 (Visualization)
-*(이곳에 코드 실행 결과로 나온 'Correlation Heatmap'이나 'Box Plot' 이미지를 캡처해서 아래 형식으로 넣어주세요)* `![Correlation Heatmap](./docs/heatmap_image.png)`
+<img width="1946" height="844" alt="image" src="https://github.com/user-attachments/assets/754a3511-3594-4a18-99dc-8bb011b0302c" />
 
 ---
 
-## 📂 관련 문서 (Documents)
-- [📄 프로젝트 발표 자료 (PDF)](./Chill_Stack_발표자료_0122.pdf)
-- [📓 데이터 분석 상세 코드 (.ipynb)](./Chill_stack_1_2_데이터분석_0122.ipynb)
+## 📂 프로젝트 상세 자료 (Analysis Resources)
+
+> 본 분석의 상세 과정과 시각화 리포트는 아래 문서에서 확인하실 수 있습니다.
+
+- [📊 데이터 분석 상세 코드 (.ipynb)](./Chill_stack_1_2_데이터분석_0122.ipynb)
+  - *Pandas와 Seaborn을 활용한 데이터 전처리 및 가설 검증 프로세스 포함*
+- [📄 프로젝트 최종 발표 자료 (PDF)](./Chill_Stack_발표자료_0122.pdf)
+  - *비즈니스 인사이트 및 도메인 지식 기반의 결론 요약*
 
 ---
 
